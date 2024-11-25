@@ -1,0 +1,11 @@
+dwl/dwl
+dwl/*.o
+dwl/*-protocol.c
+dwl/*-protocol.h
+dwl/.ccls-cache
+dwl/LICENSE*
+dwl/dwl.desktop
+dwl/dwl.1
+dwl/CHANGELOG.md
+.idea/
+.vscode/
